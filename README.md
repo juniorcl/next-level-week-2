@@ -1,7 +1,7 @@
 # Next Level Week #02
 
 <div align="center">
-    <img alt="Proffy" src"https://github.com/juniorcl/next-level-week-2/blob/master/.github/logo.png">
+    <img alt="Proffy" src="https://github.com/juniorcl/next-level-week-2/blob/master/.github/logo.png" width="280">
 </div>
 
 Project for a [course](https://nextlevelweek.com/episodios/omnistack/2/edicao/2) that has the prupose to code a project named Proffy using Node.js, HTML, CSS and JavaScript. This project is a plataform which can connect teachers and students for classes.
